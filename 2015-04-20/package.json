@@ -1,0 +1,15 @@
+{
+  "name": "puzzler-20150420",
+  "version": "1.0.0",
+  "description": "Little Puzzler - Largest Square of '1's in a Matrix",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony McGee <tmcgee.au@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
